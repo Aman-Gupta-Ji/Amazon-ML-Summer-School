@@ -19,5 +19,3 @@ The eight modules on ML topics that will be covered in <b>Amazon ML Summer Schoo
 
 :diamond_shape_with_a_dot_inside:         [Reinforcement Learning](https://github.com/piyush26arora/AmazonMLSS22/blob/main/08-reinforcement-learning.md)
 
-
-For more info, you may visit [this link](https://see.stanford.edu/Course/CS229) as well.
